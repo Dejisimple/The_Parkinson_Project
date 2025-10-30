@@ -1,5 +1,5 @@
 # The_Parkinson_Project
 Parkinson’s Disease Prediction using Metabolomics
-author: "Oladimeji Adefila"
+Author: Oladimeji Adefila
 University of Michigan–Flint · Group 1
-date: "2025-10-30"
+Date: 2025-10-30
